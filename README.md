@@ -1,2 +1,2 @@
-# personal_website
-My personal website as maintained on tet.physik
+# Personal Website
+My personal website as maintained on tat.physik
